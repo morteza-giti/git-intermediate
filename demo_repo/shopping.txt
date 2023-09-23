@@ -8,6 +8,7 @@ bread
 cereal
 eggs
 bacon
+pie
 orange juice
 grapes
 lemons
