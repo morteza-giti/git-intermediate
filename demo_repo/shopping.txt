@@ -5,7 +5,7 @@ bananas
 pizzas
 yogurt
 milk
-bread
+wheat bread
 cereal
 eggs
 bacon
